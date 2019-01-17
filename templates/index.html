@@ -56,7 +56,8 @@
         <hr size=2>
 
         <p>
-            <img class="img img-thumbnail col-md-6" src='../assets/images/icon.jpeg' alt="icon" hspace=20>
+            <image_tag class="img img-thumbnail col-md-6" src= cloudinary.utils.cloudinary_url("icon.jpeg", width = 100, height = 150, crop = "fill")
+            alt="icon" hspace=20>
             The purpose of this project was to observe the the behavior of weather factors as the locations get closer to the equator.
             We requested data from the OpenWeatherMap API and obtained all of the information needed for more than 500 cities all over the world. 
         </p>
