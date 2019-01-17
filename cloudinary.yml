@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: htlnoszxl
+  api_key: '639427882385272'
+  api_secret: KLA56513CpOHl6s5Or17RI_KJEs
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: htlnoszxl
+  api_key: '639427882385272'
+  api_secret: KLA56513CpOHl6s5Or17RI_KJEs
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: htlnoszxl
+  api_key: '639427882385272'
+  api_secret: KLA56513CpOHl6s5Or17RI_KJEs
+  enhance_image_tag: true
+  static_image_support: false
